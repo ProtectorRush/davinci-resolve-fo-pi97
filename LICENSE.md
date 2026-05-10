@@ -1,4 +1,4 @@
-
+DaVinci Resolve for macOS custom Plugin: multi-cam-editing & scene-transitions is the best DaVinci Resolve for macOS plugin, featuring multi-cam-editing and scene-transitions.
 
 
 
